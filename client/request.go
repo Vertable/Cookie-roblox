@@ -1,8 +1,8 @@
 package client
 
 import (
-	"../constants"
 	"fmt"
+	"github.com/Vertable/Cookie-roblox/constants"
 	"log"
 	"net/http"
 	"net/url"

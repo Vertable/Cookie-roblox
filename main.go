@@ -1,10 +1,10 @@
 package main
 
 import (
-	"./client"
-	"./constants"
 	"flag"
 	"fmt"
+	"github.com/Vertable/Cookie-roblox/client"
+	"github.com/Vertable/Cookie-roblox/constants"
 	"sync"
 )
 
